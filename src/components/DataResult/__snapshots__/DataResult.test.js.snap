@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DataResult /> renders DataResult correctly 1`] = `ShallowWrapper {}`;
+
+exports[`<DataResult /> renders DataTable correctly 1`] = `ShallowWrapper {}`;
