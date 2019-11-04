@@ -15,3 +15,7 @@ Runs the test runner.
 ### `yarn build`
 
 Builds the app for production to the `dist` folder.
+
+### `netlify`
+
+https://weekly-plan.netlify.com/
