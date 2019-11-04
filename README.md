@@ -1,12 +1,17 @@
 # Weekly Plan
-yarn install
+
+### `yarn install`
+
 Installs the app.
 
-yarn start
+### `yarn start`
+
 Runs the app in the development mode.
 
-yarn test
+### `yarn test`
+
 Runs the test runner.
 
-yarn build
-Builds the app for production to the dist folder.
+### `yarn build`
+
+Builds the app for production to the `dist` folder.
